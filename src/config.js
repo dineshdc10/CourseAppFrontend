@@ -10,7 +10,7 @@ function getConfig() {
     }
     else {
         config = {
-            url: "",
+            url: "https://course-app-backend.herokuapp.com",
             listurl: "https://s3-ap-southeast-1.amazonaws.com/he-public-data/courses26269ff.json"
         }
     }
